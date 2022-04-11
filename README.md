@@ -1,5 +1,8 @@
 # portfolio
 
+### 이력서
+notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e7602368
+
 ### 중앙정보인재개발원 (2020.12 ~ 2020.06)
 1. 기업 데이터 분석 프로젝트 (식품유통)
 2. BERT를 활용한 NLP 질의응답 프로그램 개발 프로젝트 (아동학습용 공룡텍스트 기계독해) 
