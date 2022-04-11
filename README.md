@@ -12,4 +12,4 @@
 4. 네이버 영화 리뷰 분석 - 감성분석 및 유사 리뷰 찾기 서비스
 
 ### 데이콘 한국어 문장 관계 분류 경진대회 8위 수상 (2022.03)
-code link: https://dacon.io/codeshare/4591 (프레젠테이션 파일 없음)
+- code link: https://dacon.io/codeshare/4591 (프레젠테이션 파일 없음)
