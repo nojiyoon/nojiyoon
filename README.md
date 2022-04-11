@@ -12,7 +12,7 @@
 1. 기업 데이터 분석 프로젝트 (카셰어링)
 2. 데이콘 신용카드 사용자 연체 예측 프로젝트(https://dacon.io/competitions/official/235713/overview/description)
 3. MobilenetV2를 활용한 영상 분류 프로젝트 (UCF101 top3)
-4. 사람, 고양이 얼굴 이미지 분류 Mini-Project
+4. 사람, 고양이 얼굴 이미지 분류 Mini-Project (프레젠테이션 파일 없음)
     - github: https://github.com/nojiyoon/aespa, https://github.com/nojiyoon/4cats
 5. 네이버 영화 리뷰 분석 - 감성분석 및 유사 리뷰 찾기 서비스
     - github: https://github.com/nojiyoon/movie-review
