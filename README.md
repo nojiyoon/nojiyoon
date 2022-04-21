@@ -39,6 +39,7 @@ notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e
    - 영화리뷰 분석 Web page 개발(팀장 / 5인 개발)
    - 언어/환경	: Python / Windows, Jupyter Notebook, VSCode, Tensorflow, Django, AWS, Github
    - 참여 분야	: BeutifulSoup을 이용한 네이버 영화 정보 크롤링, TF-IDF와 코사인 유사도를 이용한 유사리뷰 탐색 시스템 개발, WordCloud 이용하여 유사리뷰 시각화
+   - github: https://github.com/nojiyoon/movie-review
 
 ### 데이콘 한국어 문장 관계 분류 경진대회 8위 수상 (2022.03)
 - code link: https://dacon.io/codeshare/4591 
