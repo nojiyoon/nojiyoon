@@ -17,7 +17,7 @@ notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e
 3. MobilenetV2를 활용한 영상 분류 프로젝트 (UCF101 top3)
 4. 사람, 고양이 얼굴 이미지 분류 Mini-Project (프레젠테이션 파일 없음)
     - github: https://github.com/nojiyoon/aespa, https://github.com/nojiyoon/4cats
-5. 네이버 영화 리뷰 분석 - 감성분석 및 유사 리뷰 찾기 서비스
+5. 네이버 영화 리뷰 분석 - 감성분석 및 유사 리뷰 탐색 서비스
     - github: https://github.com/nojiyoon/movie-review
 
 ### 데이콘 한국어 문장 관계 분류 경진대회 8위 수상 (2022.03)
