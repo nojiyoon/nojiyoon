@@ -3,7 +3,7 @@
 ### 이력서
 notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e7602368
 
-### 중앙정보인재개발원 (2020.12 ~ 2020.06)
+### 중앙정보인재개발원 (2020.12 ~ 2020.06) - 빅데이터기반 AI 응용 솔루션 개발과정
 1. 기업 데이터 분석 프로젝트 (식품유통)
 2. BERT를 활용한 NLP 질의응답 프로그램 개발 프로젝트 (아동학습용 공룡텍스트 기계독해) 
     - github: https://github.com/nojiyoon/QAproject
@@ -11,7 +11,7 @@ notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e
 3. YOLO를 활용한 영상 딥러닝 솔루션 개발 프로젝트 (화재탐지)
     - github: https://github.com/nojiyoon/Fire_detection
 
-### 솔트룩쓰X새싹 아카데미 (2021.12 ~ 2022.06)
+### 솔트룩쓰X새싹 아카데미 (2021.12 ~ 2022.06) - 인공지능 자연어처리 및 음성인식/합성기술을 활용한 응용SW 개발자 양성과정
 1. 기업 데이터 분석 프로젝트 (카셰어링)
 2. 데이콘 신용카드 사용자 연체 예측 프로젝트(https://dacon.io/competitions/official/235713/overview/description)
 3. MobilenetV2를 활용한 영상 분류 프로젝트 (UCF101 top3)
