@@ -10,7 +10,7 @@ notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e
 
 1. 식품유통 기업 데이터 분석 (2021.01~2021.02 / 3주)
     - 고객별 식품 구매금액 예측 모델 개발 및 마케팅 인사이트 도출(팀장 / 5인 참여)
-    - 언어/환경 : Python, SQL / Windows, Jupyter Notebook, Scikit-Learn, Oracle
+    - 언어/환경 : Python / Windows, Jupyter Notebook, Scikit-Learn, Oracle
     - 참여 분야 : 식품 구매금액 예측모델 개발, 고객 군집 분석
 
 
