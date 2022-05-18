@@ -1,9 +1,5 @@
 # portfolio
 
-### 이력서
-notion: https://stormy-honey-7e2.notion.site/Jiyoon-No-728d10c2d23d40878d41c6f0e7602368
-
-
 
 ### 중앙정보인재개발원 (2020.12 ~ 2020.06) - 빅데이터기반 AI 응용 솔루션 개발과정
 
