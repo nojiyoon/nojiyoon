@@ -12,6 +12,7 @@
     - "정치 뉴스 알려줘"  -> 뉴스 텍스트를 요약하여 읽어주는 AI 스피커, Web page 개발(팀장 / 5인 개발)
     - 언어/환경 : Python / Windows, Jupyter Notebook, VSCode, Google Colab, Pytorch, FastAPI, AWS, Raspberry Pi 4
     - 참여 분야 : 뉴스 요약모델 개발(KoBART, ET5 fine-tuning), 라즈베리파이 음성인식/출력 시스템 연동
+    - 시연 영상 : https://youtu.be/i5SYENVIA4M
 
 - 영화리뷰 감성분석 및 유사 리뷰 탐색 서비스 개발 (2022.03~2022.04 / 1주일)
    - 영화리뷰 분석 Web page 개발(팀장 / 5인 개발)
