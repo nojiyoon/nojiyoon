@@ -20,15 +20,15 @@
 
 ## PROJECT
 [2023]
-- 시니어를 위한 디지털 교육컨텐츠 전달력 강화 서비스 '에이지프리' 개발 (2023.03-2023.04 / 3주일)
+- 시니어를 위한 디지털 교육컨텐츠 전달력 강화 서비스 '에이지프리' 개발 (2023.03~2023.04 / 3주일)
     - 시니어를 위한 정보화교육 동영상 요약, 스크립트 추출(Whisper API), 단락 요약문 추출(ChatGPT API), 강의에 대한 질의응답 (ChatGPT API) 챗봇 Web page 개발 (팀 리더/4인 참여)
     - 언어/환경 : Python / VSCode, FastAPI, OpenAI Whisper, ChatGPT API
     - 참여 분야: OpenAI API 활용, ChatGPT 프롬프트 엔지니어링, FastAPI 백엔드 구축
     - 소개 영상: https://youtu.be/GlYviSZXmj8
 
 [2022]
-- 공감해주는 심심이 딥러닝 챗봇 모델 개발 (2022.08-2022.09 / 1개월)
-    - 심심이 데이터 GPT-2 파인튜닝 
+- (@심심이) 공감해주는 심심이 딥러닝 챗봇 모델 개발 (2022.08~2022.09 / 1개월)
+    - 심심이 데이터 GPT-2 파인튜닝(1인)
     - 언어/환경 : Python / Linux, VSCode, Pytorch
     - 블로그 포스팅: https://blog.naver.com/simsimi_official/222887207890
 
@@ -65,6 +65,10 @@
 
 
 [2021]
+- (@디우스) 인장강도 예측 딥러닝 모델 개발 (2021.08~2021.09 / 1개월)
+    - MLP를 활용한 제강공장 센서 데이터 기반 인장강도 예측 모델 개발(1인)
+    - 언어/환경 : Python / Windows, Linux, Tensorflow
+
 - YOLO를 활용한 영상 화재탐지 딥러닝 솔루션 개발 프로젝트 (2021.05~2022.06 / 1개월)
     - YOLO를 활용한 화재탐지 솔루션 개발(5인 참여)
     - 언어/환경	: Python / Windows, Google Colab, Tensorflow, YOLO, Github
@@ -82,12 +86,3 @@
     - 고객별 식품 구매금액 예측 모델 개발 및 마케팅 인사이트 도출(팀장 / 5인 참여)
     - 언어/환경 : Python / Windows, Jupyter Notebook, Scikit-Learn, Oracle
     - 참여 분야 : 식품 구매금액 예측모델 개발, 고객 군집 분석
-
-
-
-
-
-
-
-
-
