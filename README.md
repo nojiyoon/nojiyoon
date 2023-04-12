@@ -1,5 +1,5 @@
 # PORTFOLIO
-노지윤
+노지윤 (jiyoonno@naver.com)
 
 
 ## RESUME
