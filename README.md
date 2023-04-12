@@ -19,14 +19,15 @@
 
 
 ## PROJECT
-[2023]
+__[2023]__
 - 시니어를 위한 디지털 교육컨텐츠 전달력 강화 서비스 '에이지프리' 개발 (2023.03~2023.04 / 3주일)
     - 시니어를 위한 정보화교육 동영상 요약, 스크립트 추출(Whisper API), 단락 요약문 추출(ChatGPT API), 강의에 대한 질의응답 (ChatGPT API) 챗봇 Web page 개발 (팀 리더/4인 참여)
-    - 언어/환경 : Python / VSCode, FastAPI, OpenAI Whisper, ChatGPT API
+    - 언어/환경 : Python / VSCode, FastAPI, OpenAI Whisper, ChatGPT API, Github, Docker, Kubernetes
     - 참여 분야: OpenAI API 활용, ChatGPT 프롬프트 엔지니어링, FastAPI 백엔드 구축
     - 소개 영상: https://youtu.be/GlYviSZXmj8
 
-[2022]
+
+__[2022]__
 - (@심심이) 공감해주는 심심이 딥러닝 챗봇 모델 개발 (2022.08~2022.09 / 1개월)
     - 심심이 데이터 GPT-2 파인튜닝(1인)
     - 언어/환경 : Python / Linux, VSCode, Pytorch
@@ -64,7 +65,11 @@
 
 
 
-[2021]
+__[2021]__
+- (@이노포스트) 흡연 관련 데이터 분석 및 흡연율 예측모델 개발 (2021.09~2021.11 / 3개월)
+    - 흡연 관련 데이터 분석 및 흡연율 예측모델 개발(2인 개발)
+    - 언어/환경: Python / Windows, Google Colab, Tensorflow
+
 - (@디우스) 인장강도 예측 딥러닝 모델 개발 (2021.08~2021.09 / 1개월)
     - MLP를 활용한 제강공장 센서 데이터 기반 인장강도 예측 모델 개발(1인)
     - 언어/환경 : Python / Windows, Linux, Tensorflow
