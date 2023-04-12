@@ -49,7 +49,7 @@ __[2022]__
 - 영화리뷰 감성분석 및 유사 리뷰 탐색 서비스 개발 (2022.03~2022.04 / 1주일)
    - 영화리뷰 분석 Web page 개발(팀장 / 5인 개발)
    - 언어/환경	: Python / Windows, Jupyter Notebook, VSCode, Tensorflow, Django, AWS, Github
-   - 참여 분야	: BeutifulSoup을 이용한 네이버 영화 정보 크롤링, TF-IDF와 코사인 유사도를 이용한 유사리뷰 탐색 시스템 개발, WordCloud 이용하여 유사리뷰 시각화
+   - 참여 분야	: BeautifulSoup을 이용한 네이버 영화 정보 크롤링, TF-IDF와 코사인 유사도를 이용한 유사리뷰 탐색 시스템 개발, WordCloud 이용하여 유사리뷰 시각화
    - github: https://github.com/nojiyoon/movie-review
 
 - 사람, 고양이 얼굴 이미지 분류 Mini-Project
