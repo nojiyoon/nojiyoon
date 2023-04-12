@@ -25,7 +25,7 @@ __[2023]__
 
     - GenAI 해커톤 참가작
     - 시니어를 위한 정보화교육 동영상 요약, 스크립트 추출(Whisper API), 단락 요약문 추출(ChatGPT API), 강의에 대한 질의응답 (ChatGPT API) 챗봇 Web page 개발 (팀 리더/4인 참여)
-    - 언어/환경 : Python / VSCode, FastAPI, OpenAI Whisper, ChatGPT API, Github, Docker, Kubernetes
+    - 언어/환경 : Python / MacOS, VSCode, FastAPI, OpenAI Whisper, ChatGPT API, Github, Docker, Kubernetes
     - 참여 분야: OpenAI API 활용, ChatGPT 프롬프트 엔지니어링, FastAPI 백엔드 구축
     - 소개 영상: https://youtu.be/GlYviSZXmj8
 
