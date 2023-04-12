@@ -1,4 +1,5 @@
 # PORTFOLIO
+노지윤
 
 ## RESUME
 - __EDUCATION__: 서울대학교 종교학과(부전공 미학) 졸업, 동대학원 석사 수료
@@ -26,6 +27,11 @@
     - 소개 영상: https://youtu.be/GlYviSZXmj8
 
 [2022]
+- 공감해주는 심심이 딥러닝 챗봇 모델 개발 (2022.08-2022.09 / 1개월)
+    - 심심이 데이터 GPT-2 파인튜닝 
+    - 언어/환경 : Python / Linux, VSCode, Pytorch
+    - 블로그 포스팅: https://blog.naver.com/simsimi_official/222887207890
+
 - 뉴스 요약 AI 스피커 개발 (2022.05~2022.06 / 1개월)
     - "정치 뉴스 알려줘"  -> 뉴스 텍스트를 요약하여 읽어주는 AI 스피커, Web page 개발(팀장 / 5인 개발)
     - 언어/환경 : Python / Windows, Jupyter Notebook, VSCode, Google Colab, Pytorch, FastAPI, AWS, Raspberry Pi 4
