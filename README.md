@@ -1,13 +1,31 @@
-# portfolio
+# PORTFOLIO
+
+## RESUME
+- __EDUCATION__: 서울대학교 종교학과(부전공 미학) 졸업, 동대학원 석사 수료
+
+- __WORK EXPERIENCE__
+    - (주)나라지식정보, 메타버스 연구소/책임 (2023.04-현재)
+    - 심심이(주), 인공지능 연구소/연구원 (2022.07-2023.01)
+    - (주)이노포스트, 빅데이터분석/PL (2021.08-2021.11)
+    - (주)디우스, 인공지능 연구소/연구원 (2021.07-2021.09)
+- __AI, ML & Data Analysis TRAINING__
+    - 인공지능 자연어처리 및 음성인식/합성기술을 활용한 응용 SW 개발자 양성과정 @솔트룩스xSBA새싹아카데미 (2021.12-2022.06)
+    - 빅데이터 기반 AI 응용 솔루션 개발과정 @중앙정보기술인재개발원 (2020.12-2021.06)
+- __LICENCE__
+    - 빅데이터 분석기사 (2021.07)
+- __AWARDS__
+    - 한국어 문장 관계 분류 경진대회 8위 수상 @dacon (2022.03) https://dacon.io/codeshare/4591
 
 
-### 데이콘 한국어 문장 관계 분류 경진대회 8위 수상 (2022.03)
-- code link: https://dacon.io/codeshare/4591 
+## PROJECT
+[2023]
+- 시니어를 위한 디지털 교육컨텐츠 전달력 강화 서비스 '에이지프리' 개발 (2023.03-2023.04 / 3주일)
+    - 시니어를 위한 정보화교육 동영상 요약, 스크립트 추출(Whisper API), 단락 요약문 추출(ChatGPT API), 강의에 대한 질의응답 (ChatGPT API) 챗봇 Web page 개발 (팀 리더/4인 참여)
+    - 언어/환경 : Python / VSCode, FastAPI, OpenAI Whisper, ChatGPT API
+    - 참여 분야: OpenAI API 활용, ChatGPT 프롬프트 엔지니어링, FastAPI 백엔드 구축
+    - 소개 영상: https://youtu.be/GlYviSZXmj8
 
-
-
-### [2022 project] 솔트룩스X새싹 아카데미 (2021.12 ~ 2022.06) - 인공지능 자연어처리 및 음성인식/합성기술을 활용한 응용SW 개발자 양성과정
-
+[2022]
 - 뉴스 요약 AI 스피커 개발 (2022.05~2022.06 / 1개월)
     - "정치 뉴스 알려줘"  -> 뉴스 텍스트를 요약하여 읽어주는 AI 스피커, Web page 개발(팀장 / 5인 개발)
     - 언어/환경 : Python / Windows, Jupyter Notebook, VSCode, Google Colab, Pytorch, FastAPI, AWS, Raspberry Pi 4
@@ -40,8 +58,7 @@
 
 
 
-### [2021 project] 중앙정보인재개발원 (2020.12 ~ 2021.06) - 빅데이터기반 AI 응용 솔루션 개발과정
-
+[2021]
 - YOLO를 활용한 영상 화재탐지 딥러닝 솔루션 개발 프로젝트 (2021.05~2022.06 / 1개월)
     - YOLO를 활용한 화재탐지 솔루션 개발(5인 참여)
     - 언어/환경	: Python / Windows, Google Colab, Tensorflow, YOLO, Github
