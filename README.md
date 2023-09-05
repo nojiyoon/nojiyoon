@@ -21,8 +21,17 @@
 
 ## PROJECT
 __[2023]__
+- (@나라지식정보) NARAverse (Nara information Metaverse) 개발 (2023.07~현재)
+    - 한국 고유의 문화적인 특징을 반영한 Multi-Modal 모델 개발
+    - Stable Diffusion(v1.5) Finetuning
+  
+- (@나라지식정보) NA-LLM (NAra information Large Language Model) 개발 (2023.05~2023.07 / 2개월)
+    - 대한민국 공공기관 민원 업무 도우미
+    - 대형 언어모델 경량화 모델(sLLM)
+    - 기반 모델: polyglot-ko, KoBART
+    - github: https://github.com/Nara-Information/NA-LLM
+ 
 - 시니어를 위한 디지털 교육컨텐츠 전달력 강화 서비스 '에이지프리' 개발 (2023.03~2023.04 / 3주일)
-
     - GenAI 해커톤 1회 참가작
     - 시니어를 위한 정보화교육 동영상 요약, 스크립트 추출(Whisper API), 단락 요약문 추출(ChatGPT API), 강의에 대한 질의응답 (ChatGPT API) 챗봇 Web page 개발 (팀 리더 / 4인 참여)
     - 언어/환경 : Python / MacOS, VSCode, FastAPI, OpenAI Whisper, ChatGPT API, Github, Docker, Kubernetes
