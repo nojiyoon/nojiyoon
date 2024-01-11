@@ -21,13 +21,13 @@
 
 ## PROJECT
 __[2023]__
-- (@나라지식정보) NARAverse (Nara information Metaverse) 개발 (2023.07~현재)
+- (@나라지식정보) NARAverse (Nara Information Metaverse) 개발 (2023.07~현재)
     - 생성 AI를 통한 영화 제작 플랫폼 개발
     - 생성 AI가 만든 영화, 'AI 수로부인' 음향 책임 https://cidff.kr/542
     - 한국 고유의 문화적인 특징을 반영한 Multi-Modal 모델 개발
     - Stable Diffusion(v1.5) Finetuning
   
-- (@나라지식정보) NA-LLM (NAra information Large Language Model) 개발 (2023.05~2023.07 / 2개월)
+- (@나라지식정보) NA-LLM (NAra Information Large Language Model) 개발 (2023.05~2023.07 / 2개월)
     - 대한민국 공공기관 민원 업무 도우미
     - 대형 언어모델 경량화 모델(sLLM)
     - 기반 모델: polyglot-ko, KoBART
