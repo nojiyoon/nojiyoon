@@ -22,6 +22,8 @@
 ## PROJECT
 __[2023]__
 - (@나라지식정보) NARAverse (Nara information Metaverse) 개발 (2023.07~현재)
+    - 생성 AI를 통한 영화 제작 플랫폼 개발
+    - 생성 AI가 만든 영화, 'AI 수로부인' 음향 책임 https://cidff.kr/542
     - 한국 고유의 문화적인 특징을 반영한 Multi-Modal 모델 개발
     - Stable Diffusion(v1.5) Finetuning
   
