@@ -20,10 +20,15 @@
 
 
 ## PROJECT
+__[2024]__
+- (@나라지식정보) 생성 AI를 통한 개인 영화 제작 플랫폼 개발
+
 __[2023]__
+- (@나라지식정보) 생성 AI 영화, 'AI 수로부인' 제작 참여 (2023.09~2023.10 / 2개월)
+    - 창원국제민주영화제 상영작 https://cidff.kr/542
+    - 참여 분야: 생성 AI를 통한 이미지, 영상, 음악 제작. 음향 책임
+    
 - (@나라지식정보) NARAverse (Nara Information Metaverse) 개발 (2023.07~현재)
-    - 생성 AI를 통한 영화 제작 플랫폼 개발
-    - 생성 AI가 만든 영화, 'AI 수로부인' 음향 책임 https://cidff.kr/542
     - 한국 고유의 문화적인 특징을 반영한 Multi-Modal 모델 개발
     - Stable Diffusion(v1.5) Finetuning
   
