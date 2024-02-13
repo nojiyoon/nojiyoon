@@ -116,7 +116,7 @@ __[2021]__
     - 참여 분야 : 식품 구매금액 예측모델 개발, 고객 군집 분석
 
 ## ETC
-- 영화 'AI 수로부인' 관련 기사 및 영상
+- 영화 'AI 수로부인'(2023.10) 관련 기사 및 영상
     - [기사] ["AI 영화에 K-컬처를 담다"...나라지식정보, 영화 'AI수로부인' 출품](https://www.aitimes.com/news/articleView.html?idxno=154498) @AI타임스
     - [기사] [국내 생성 AI 영화 '저작권 첫 인정'...세계 2번째 사례](https://www.aitimes.com/news/articleView.html?idxno=156286) @AI타임스
     - [영상] [AI 수로부인 official trailer 영상](https://youtu.be/K61g6Rtyx90?si=jO5Ch2vlyDD0eMu0)
