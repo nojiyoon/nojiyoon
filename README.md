@@ -116,12 +116,15 @@ __[2021]__
     - 참여 분야 : 식품 구매금액 예측모델 개발, 고객 군집 분석
 
 ## ETC
-- 영화 'AI 수로부인'(2023.10) 관련 기사 및 영상
+
+- 영화 'AI 수로부인' (2023.10) 관련 기사 및 영상
     - [기사] ["AI 영화에 K-컬처를 담다"...나라지식정보, 영화 'AI수로부인' 출품](https://www.aitimes.com/news/articleView.html?idxno=154498) @AI타임스
     - [기사] [국내 생성 AI 영화 '저작권 첫 인정'...세계 2번째 사례](https://www.aitimes.com/news/articleView.html?idxno=156286) @AI타임스
     - [영상] [AI 수로부인 official trailer 영상](https://youtu.be/K61g6Rtyx90?si=jO5Ch2vlyDD0eMu0)
     - [영상] [AI시대의 질문 그대들은 어떻게 살 것인가](https://youtu.be/Or8PHNcYarM?si=fVgXar0lKrF2UReh&t=1021) @YTN 탐사보고서 기록
+
 - AI 음원 커버 경험 인터뷰 (2023.05)
     - [영상] [브루노마스 AI 커버송 직접 만들어봄](https://youtu.be/kBxLaDmxnLI?si=ffhw9xOI_sdhQS8Z&t=75) @서울경제신문 시사교양채널 1q60
+
 - 음원 발매 (2020.09)
     - [음원] [이요(iio) - Fly](https://youtu.be/nhyygAvPwPo?si=peEDLgleDHxnOfCl)
